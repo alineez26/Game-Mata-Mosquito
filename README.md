@@ -1,10 +1,14 @@
 # Mata Mosquito
 
+- Este projeto foi desenvolvido seguindo o curso do Jorge Sant Ana e Jamilton Damasceno.
+  
 ## Descrição
 
 O Mata Mosquito é um mini game onde o objetivo é eliminar mosquitos clicando com o mouse. 
 O jogo oferece três níveis de dificuldade: Normal, Difícil e Super Difícil. 
 O jogador começa com 3 vidas e deve sobreviver por 30 segundos, matando os mosquitos sem perder todas as vidas para vencer.
+
+
 
 ## Tecnologias Utilizadas
 
