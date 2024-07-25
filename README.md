@@ -16,11 +16,12 @@ O Mata Mosquito é um mini game onde o objetivo é eliminar mosquitos clicando c
 ### Tela Inicial
 ![Tela Inicial](imagens/tela-inicial.png)
 
+### Tela do Jogo
+![Tela do Jogo](imagens/tela-jogo.png)
+
 ### Tela de Vitória
 ![Tela de Vitória](imagens/tela-vitoria.png)
 
 ### Tela de Derrota
 ![Tela de Derrota](imagens/tela-derrota.png)
 
-### Tela do Jogo
-![Tela do Jogo](imagens/tela-jogo.png)
